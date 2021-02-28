@@ -1,0 +1,10 @@
+node_modules/
+dist/
+test/
+build/
+src/hybird/
+src/components/
+src/pages/
+src/store/
+src/api/
+src/common/
